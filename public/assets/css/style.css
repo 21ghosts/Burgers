@@ -1,0 +1,31 @@
+.center {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+	
+}
+
+h3 {
+	text-align: center;
+	
+}
+
+.update-create {
+    background: grey;
+    border: 1px black solid;
+    padding: 20px;
+    margin: 20px;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+  padding: 15px;
+  margin: 15px;
+  background: grey;
+  list-style: none;
+}
